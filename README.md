@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @Fahim169
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java
+- 😥 Hi I'm Fahim. Fahim Habib 
 - 📫 How to reach me Habibmr813@gmail.com
